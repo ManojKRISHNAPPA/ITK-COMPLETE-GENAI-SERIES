@@ -1,0 +1,4 @@
+this to exaplian with function....
+am learning i/o file
+this is saved on disk
+this to exaplian with function.... and am using append mode 
